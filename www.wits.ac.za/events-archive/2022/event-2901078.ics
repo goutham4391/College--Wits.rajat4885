@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+PRODID:-//TERMINALFOUR//SITEMANAGER V7.3//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20221118T090000
+LOCATION: e-Zone, Education Campus York Street 
+DESCRIPTION:Facilitated by Dr William Mpofu  Dr Mpofu is a researcher at the Wits Centre for Diversity Studies. One of his latest publications include the book co-edited Decolonising the human: Reflections from Africa on difference and oppression.&nbsp;
+X-ALT-DESC;FMTTYPE=text/html:<strong>Facilitated by Dr William Mpofu  </strong><p>Dr Mpofu is a researcher at the Wits Centre for Diversity Studies. One of his latest publications include the book co-edited Decolonising the human: Reflections from Africa on difference and oppression.&nbsp;</p>
+SUMMARY:Why decoloniality and critical theories matter to health professions education
+END:VEVENT
+END:VCALENDAR
